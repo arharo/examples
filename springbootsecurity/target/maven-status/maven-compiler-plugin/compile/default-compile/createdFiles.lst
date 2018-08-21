@@ -1,0 +1,4 @@
+com\arharo\controller\DefaultController.class
+com\arharo\config\SpringSecurityConfig.class
+com\arharo\error\MyAccessDeniedHandler.class
+com\arharo\SpringBootWebApplication.class
